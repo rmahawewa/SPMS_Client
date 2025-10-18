@@ -11,6 +11,7 @@ const Body = () => {
 			<div className="flex">
 				<Sidebar />
 				<div className="px-8 py-5">
+					{/* <div> */}
 					<Outlet />
 				</div>
 			</div>
